@@ -1,0 +1,60 @@
+nav {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: white;
+}
+
+body {
+  background-color: lightgray;
+}
+
+h3, h4 {
+  color: rgb(29, 204, 32);
+}
+
+.navbar-light .navbar-brand {
+  background-color: rgb(29, 204, 32);
+  padding: 10px;
+  font-weight: bold;
+  color: white;
+}
+
+figcaption{
+  color: rgb(11, 11, 54);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 600;
+}
+.nav-item a {
+  color: black;
+}
+
+.contain-lg {
+  background-color: white;
+  margin-top: 40px;
+  font-weight: 400;
+  padding: 20px;
+}
+
+.selected {
+  border: 3px solid rgb(29, 204, 32);
+  padding: 0;
+}
+
+.table-responsive {
+  max-height: 600px;
+}
+
+@media (max-width: 600px) {
+  body {
+      background-color: white;
+  }
+}
+
+@media (max-width: 990px) {
+  .navbar {
+      background-color: rgb(29, 204, 32);
+  }
+  .navbar-light .navbar-toggler {
+      border-color: lightgrey;
+  }
+}
