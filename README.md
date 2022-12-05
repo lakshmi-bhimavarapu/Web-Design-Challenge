@@ -2,7 +2,7 @@
 
 The purpose of this project is to create a visualization dashboard website using visualizations created for the Weather/Vacation (https://github.com/lakshmi-bhimavarapu/python-api-challenge) project.
 
-The dashboard can be viewed at:  https://github.com/lakshmi-bhimavarapu/Web-Design-Challenge
+The dashboard can be viewed at:  https://lakshmi-bhimavarapu.github.io/Web-Design-Challenge/
 
 The website consist of seven pages as follows:
 
